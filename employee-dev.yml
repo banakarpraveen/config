@@ -1,0 +1,16 @@
+server:
+  port: 8080
+
+java:
+  versions: ${TMP}
+
+employee:
+  name: praveendev
+  id: 100
+  age: 30
+  projects:
+    - JAVA
+    - PYTHON
+  grade:
+    1: FIRST
+    2: SECOND
