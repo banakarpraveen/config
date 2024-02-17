@@ -5,7 +5,7 @@ java:
   versions: ${TMP}
 
 employee:
-  name: praveendev12346789
+  name: praveendev1
   id: 1000
   age: 30
   projects:
